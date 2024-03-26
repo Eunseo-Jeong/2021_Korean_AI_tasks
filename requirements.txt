@@ -1,0 +1,6 @@
+pandas
+transformers
+tqdm
+sklearn
+numpy
+wandb
