@@ -6,8 +6,6 @@
 
      pip install -r requirements.txt
 
-<br><br>
-
 ## fine-tuning code
      {task}_fine_tune.py
 
