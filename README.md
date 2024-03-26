@@ -3,4 +3,17 @@
 
 ## dev setup
 1. pytorch
+
      conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
+
+2. requirements.txt
+     
+     pip install -r requirements.txt
+
+
+## fine-tuning code
+     {task}_fine_tune.py
+
+## inferencce code
+     {task}_submissioon.py, concat_submission 
+
